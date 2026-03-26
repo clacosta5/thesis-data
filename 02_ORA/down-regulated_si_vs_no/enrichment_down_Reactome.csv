@@ -1,0 +1,7 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.164781683418292,3,75,14.2020933977456,"R-HSA-446193 Biosynthesis of the N-glycan precursor dolichol lipid-linked oligosaccharide LLO and transfer to a nascent protein","https://reactome.org/PathwayBrowser/#/R-HSA-446193"," ST6GAL1  ST3GAL6  ALG6"
+0.164781683418292,2,31,24.196159122085,"R-HSA-4085001 Sialic acid metabolism","https://reactome.org/PathwayBrowser/#/R-HSA-4085001"," ST6GAL1  ST3GAL6"
+0.164781683418292,2,29,24.196159122085,"R-HSA-9759476 Regulation of Homotypic Cell-Cell Adhesion","https://reactome.org/PathwayBrowser/#/R-HSA-9759476"," ZEB2  CDH19"
+0.164781683418292,2,29,24.196159122085,"R-HSA-9764260 Regulation of Expression and Function of Type II Classical Cadherins","https://reactome.org/PathwayBrowser/#/R-HSA-9764260"," ZEB2  CDH19"
+0.164781683418292,2,32,24.196159122085,"R-HSA-1592389 Activation of Matrix Metalloproteinases","https://reactome.org/PathwayBrowser/#/R-HSA-1592389"," MMP15  MMP17"
+0.192155851633162,2,38,20.4155092592593,"R-HSA-8853659 RET signaling","https://reactome.org/PathwayBrowser/#/R-HSA-8853659"," SHC3  GAB2"

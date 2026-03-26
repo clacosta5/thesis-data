@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OCIAD2	OCIA domain containing 2 [Source:HGNC Symbol;Acc:HGNC:28685]	10	1.1442073583602905	0.07135252	Yes	
+row_1	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	12	1.134238839149475	0.14267503	Yes	
+row_2	TTC12	tetratricopeptide repeat domain 12 [Source:HGNC Symbol;Acc:HGNC:23700]	31	0.9641469717025757	0.20216352	Yes	
+row_3	FMOD	fibromodulin [Source:HGNC Symbol;Acc:HGNC:3774]	82	0.8587638735771179	0.2528951	Yes	
+row_4	CCNA1	cyclin A1 [Source:HGNC Symbol;Acc:HGNC:1577]	85	0.8497140407562256	0.30624324	Yes	
+row_5	NMNAT3	nicotinamide nucleotide adenylyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:20989]	208	0.7386949062347412	0.3446384	Yes	
+row_6	SLC35G2	solute carrier family 35 member G2 [Source:HGNC Symbol;Acc:HGNC:28480]	555	0.5988181829452515	0.3593608	Yes	
+row_7	CA3	carbonic anhydrase 3 [Source:HGNC Symbol;Acc:HGNC:1374]	570	0.5944772958755493	0.39584786	Yes	
+row_8	RARRES2	retinoic acid receptor responder 2 [Source:HGNC Symbol;Acc:HGNC:9868]	582	0.5904107093811035	0.43227807	Yes	
+row_9	TOM1L1	target of myb1 like 1 membrane trafficking protein [Source:HGNC Symbol;Acc:HGNC:11983]	827	0.5328671336174011	0.4496202	Yes	
+row_10	MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	941	0.509039580821991	0.4741583	Yes	
+row_11	CHI3L1	chitinase 3 like 1 [Source:HGNC Symbol;Acc:HGNC:1932]	1228	0.4656330347061157	0.48448077	Yes	
+row_12	CNMD	chondromodulin [Source:HGNC Symbol;Acc:HGNC:17005]	1478	0.43329957127571106	0.49522424	Yes	
+row_13	LGALS8	galectin 8 [Source:HGNC Symbol;Acc:HGNC:6569]	1538	0.4249458909034729	0.51805395	Yes	
+row_14	JHY	junctional cadherin complex regulator [Source:HGNC Symbol;Acc:HGNC:26288]	1608	0.4157845377922058	0.5396432	Yes	
+row_15	ACSS3	acyl-CoA synthetase short chain family member 3 [Source:HGNC Symbol;Acc:HGNC:24723]	1716	0.4045717716217041	0.5580044	Yes	
+row_16	CABCOCO1	ciliary associated calcium binding coiled-coil 1 [Source:HGNC Symbol;Acc:HGNC:28678]	1955	0.38088786602020264	0.5661792	Yes	
+row_17	SLC39A12	solute carrier family 39 member 12 [Source:HGNC Symbol;Acc:HGNC:20860]	2384	0.3417062759399414	0.5592759	Yes	
+row_18	RAB36	RAB36, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9775]	2495	0.33352723717689514	0.5729664	Yes	
+row_19	B3GNT5	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:15684]	2694	0.3183770477771759	0.579862	Yes	
+row_20	DYNLT5	dynein light chain Tctex-type family member 5 [Source:HGNC Symbol;Acc:HGNC:26882]	2944	0.297944039106369	0.5820862	Yes	
+row_21	FKBP5	FKBP prolyl isomerase 5 [Source:HGNC Symbol;Acc:HGNC:3721]	3514	0.2633063495159149	0.560889	Yes	
+row_22	ARMC3	armadillo repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:30964]	3704	0.24840690195560455	0.5639781	Yes	
+row_23	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	3835	0.23938582837581635	0.57041574	Yes	
+row_24	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	3859	0.23724748194217682	0.58382136	Yes	
+row_25	CHRDL2	chordin like 2 [Source:HGNC Symbol;Acc:HGNC:24168]	4116	0.2178100049495697	0.58053726	Yes	
+row_26	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	4123	0.21734336018562317	0.59381855	Yes	
+row_27	RARRES1	retinoic acid receptor responder 1 [Source:HGNC Symbol;Acc:HGNC:9867]	5550	0.12215688079595566	0.5068506	No	
+row_28	AQP5	aquaporin 5 [Source:HGNC Symbol;Acc:HGNC:638]	6547	0.06256547570228577	0.44467494	No	
+row_29	CHST6	carbohydrate sulfotransferase 6 [Source:HGNC Symbol;Acc:HGNC:6938]	6579	0.0607568584382534	0.44644123	No	
+row_30	G0S2	G0/G1 switch 2 [Source:HGNC Symbol;Acc:HGNC:30229]	6595	0.05979039892554283	0.44920874	No	
+row_31	PAMR1	peptidase domain containing associated with muscle regeneration 1 [Source:HGNC Symbol;Acc:HGNC:24554]	6699	0.05346044898033142	0.4457365	No	
+row_32	SEMA3E	semaphorin 3E [Source:HGNC Symbol;Acc:HGNC:10727]	7127	0.029592221602797508	0.4192552	No	
+row_33	MTARC2	mitochondrial amidoxime reducing component 2 [Source:HGNC Symbol;Acc:HGNC:26064]	7339	0.018330076709389687	0.40640292	No	
+row_34	SEL1L3	SEL1L family member 3 [Source:HGNC Symbol;Acc:HGNC:29108]	7607	0.002637710887938738	0.3888457	No	
+row_35	CBR1	carbonyl reductase 1 [Source:HGNC Symbol;Acc:HGNC:1548]	7685	-0.0012296497588977218	0.38381192	No	
+row_36	SLC25A20	solute carrier family 25 member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	8498	-0.04661565274000168	0.33284613	No	
+row_37	PDPN	podoplanin [Source:HGNC Symbol;Acc:HGNC:29602]	8713	-0.060166243463754654	0.3224279	No	
+row_38	ITGBL1	integrin subunit beta like 1 [Source:HGNC Symbol;Acc:HGNC:6164]	8949	-0.07315371930599213	0.3114331	No	
+row_39	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	9356	-0.09552609175443649	0.29049563	No	
+row_40	TRIP4	thyroid hormone receptor interactor 4 [Source:HGNC Symbol;Acc:HGNC:12310]	10149	-0.14075596630573273	0.2467826	No	
+row_41	FAM221A	family with sequence similarity 221 member A [Source:HGNC Symbol;Acc:HGNC:27977]	10696	-0.17274367809295654	0.22141212	No	
+row_42	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	12684	-0.30961036682128906	0.10900385	No	
+row_43	CTHRC1	collagen triple helix repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:18831]	13475	-0.3805801570415497	0.0805181	No	
+row_44	SPON2	spondin 2 [Source:HGNC Symbol;Acc:HGNC:11253]	14044	-0.4429435729980469	0.070693634	No	

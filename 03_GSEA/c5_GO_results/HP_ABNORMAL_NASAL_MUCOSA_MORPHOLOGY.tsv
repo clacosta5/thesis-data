@@ -1,0 +1,63 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TTC12	tetratricopeptide repeat domain 12 [Source:HGNC Symbol;Acc:HGNC:23700]	31	0.9641469717025757	0.043082558	Yes	
+row_1	DNAAF3	dynein axonemal assembly factor 3 [Source:HGNC Symbol;Acc:HGNC:30492]	61	0.8977333903312683	0.08318845	Yes	
+row_2	DNAAF1	dynein axonemal assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:30539]	169	0.765046238899231	0.11189835	Yes	
+row_3	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	183	0.7570927143096924	0.14648253	Yes	
+row_4	SLC26A9	solute carrier family 26 member 9 [Source:HGNC Symbol;Acc:HGNC:14469]	411	0.6405435800552368	0.16138856	Yes	
+row_5	CCNO	cyclin O [Source:HGNC Symbol;Acc:HGNC:18576]	454	0.6265655159950256	0.18793412	Yes	
+row_6	CCDC39	coiled-coil domain 39 molecular ruler complex subunit [Source:HGNC Symbol;Acc:HGNC:25244]	595	0.5874451994895935	0.20613551	Yes	
+row_7	SPAG1	sperm associated antigen 1 [Source:HGNC Symbol;Acc:HGNC:11212]	637	0.5752657055854797	0.23034559	Yes	
+row_8	DNAH5	dynein axonemal heavy chain 5 [Source:HGNC Symbol;Acc:HGNC:2950]	659	0.5710042119026184	0.25568524	Yes	
+row_9	MCIDAS	multiciliate differentiation and DNA synthesis associated cell cycle protein [Source:HGNC Symbol;Acc:HGNC:40050]	678	0.5656572580337524	0.28097388	Yes	
+row_10	LRRC56	leucine rich repeat containing 56 [Source:HGNC Symbol;Acc:HGNC:25430]	687	0.5637050271034241	0.30683565	Yes	
+row_11	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	766	0.5438798666000366	0.3271174	Yes	
+row_12	HYDIN	HYDIN axonemal central pair apparatus protein [Source:HGNC Symbol;Acc:HGNC:19368]	1116	0.4822782278060913	0.32650587	Yes	
+row_13	AIRE	autoimmune regulator [Source:HGNC Symbol;Acc:HGNC:360]	1188	0.47198230028152466	0.34388646	Yes	
+row_14	GSTM3	glutathione S-transferase mu 3 [Source:HGNC Symbol;Acc:HGNC:4635]	1347	0.4501124322414398	0.35446158	Yes	
+row_15	DNAJB13	DnaJ heat shock protein family (Hsp40) member B13 [Source:HGNC Symbol;Acc:HGNC:30718]	1363	0.4487694203853607	0.37447676	Yes	
+row_16	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	1372	0.4479124844074249	0.39491698	Yes	
+row_17	DNAAF5	dynein axonemal assembly factor 5 [Source:HGNC Symbol;Acc:HGNC:26013]	1416	0.4428163766860962	0.4127927	Yes	
+row_18	ODAD3	outer dynein arm docking complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:28303]	1456	0.4373880624771118	0.4306801	Yes	
+row_19	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1481	0.432934433221817	0.44935575	Yes	
+row_20	DRC1	dynein regulatory complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24245]	1692	0.40747517347335815	0.45447895	Yes	
+row_21	DNAAF11	dynein axonemal assembly factor 11 [Source:HGNC Symbol;Acc:HGNC:16725]	1717	0.40454044938087463	0.47182515	Yes	
+row_22	DNAH9	dynein axonemal heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:2953]	1722	0.40373867750167847	0.49046293	Yes	
+row_23	CFAP300	cilia and flagella associated protein 300 [Source:HGNC Symbol;Acc:HGNC:28188]	1725	0.4029007852077484	0.5091944	Yes	
+row_24	ODAD2	outer dynein arm docking complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:25583]	1734	0.40172773599624634	0.52747214	Yes	
+row_25	ODAD1	outer dynein arm docking complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:26560]	1783	0.39671051502227783	0.5428569	Yes	
+row_26	ZMYND10	zinc finger MYND-type containing 10 [Source:HGNC Symbol;Acc:HGNC:19412]	1953	0.3810392916202545	0.5494669	Yes	
+row_27	RSPH1	radial spoke head component 1 [Source:HGNC Symbol;Acc:HGNC:12371]	2268	0.35149791836738586	0.54505795	Yes	
+row_28	ODAD4	outer dynein arm docking complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:25280]	2423	0.3383462429046631	0.55066586	Yes	
+row_29	CFAP221	cilia and flagella associated protein 221 [Source:HGNC Symbol;Acc:HGNC:33720]	2520	0.3321664035320282	0.5598387	Yes	
+row_30	DNAI1	dynein axonemal intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2954]	2564	0.3286047875881195	0.5723669	Yes	
+row_31	DNAH11	dynein axonemal heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:2942]	2716	0.3164164125919342	0.57714736	Yes	
+row_32	RSPH9	radial spoke head component 9 [Source:HGNC Symbol;Acc:HGNC:21057]	3213	0.2799801230430603	0.5572952	No	
+row_33	SLC6A14	solute carrier family 6 member 14 [Source:HGNC Symbol;Acc:HGNC:11047]	3541	0.26115527749061584	0.5477924	No	
+row_34	CFAP74	cilia and flagella associated protein 74 [Source:HGNC Symbol;Acc:HGNC:29368]	3607	0.2561081349849701	0.5554642	No	
+row_35	RSPH4A	radial spoke head component 4A [Source:HGNC Symbol;Acc:HGNC:21558]	3834	0.23940247297286987	0.55165476	No	
+row_36	FOXJ1	forkhead box J1 [Source:HGNC Symbol;Acc:HGNC:3816]	4305	0.2046438604593277	0.5300031	No	
+row_37	GAS2L2	growth arrest specific 2 like 2 [Source:HGNC Symbol;Acc:HGNC:24846]	4455	0.19472655653953552	0.5292188	No	
+row_38	RPGR	retinitis pigmentosa GTPase regulator [Source:HGNC Symbol;Acc:HGNC:10295]	4489	0.19216322898864746	0.53602314	No	
+row_39	STX1A	syntaxin 1A [Source:HGNC Symbol;Acc:HGNC:11433]	5027	0.15743319690227509	0.50770855	No	
+row_40	CCDC40	coiled-coil domain 40 molecular ruler complex subunit [Source:HGNC Symbol;Acc:HGNC:26090]	5400	0.13271623849868774	0.4892016	No	
+row_41	NME5	NME/NM23 family member 5 [Source:HGNC Symbol;Acc:HGNC:7853]	5583	0.11937545984983444	0.4826963	No	
+row_42	OFD1	OFD1 centriole and centriolar satellite protein [Source:HGNC Symbol;Acc:HGNC:2567]	5641	0.1152137890458107	0.48430288	No	
+row_43	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	6110	0.08691945672035217	0.45727208	No	
+row_44	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	6264	0.07789827883243561	0.4507519	No	
+row_45	STK36	serine/threonine kinase 36 [Source:HGNC Symbol;Acc:HGNC:17209]	6696	0.05358319357037544	0.42461908	No	
+row_46	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	6904	0.04170350357890129	0.4128157	No	
+row_47	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	7126	0.029592590406537056	0.3995149	No	
+row_48	SPEF2	sperm flagellar 2 [Source:HGNC Symbol;Acc:HGNC:26293]	7462	0.011763089336454868	0.3778036	No	
+row_49	UNC119	unc-119 lipid binding chaperone [Source:HGNC Symbol;Acc:HGNC:12565]	7918	-0.013324642553925514	0.3481909	No	
+row_50	HMOX1	heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013]	8308	-0.03622125834226608	0.3240362	No	
+row_51	DNAH1	dynein axonemal heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2940]	8371	-0.03897504135966301	0.32174093	No	
+row_52	DNAL1	dynein axonemal light chain 1 [Source:HGNC Symbol;Acc:HGNC:23247]	9332	-0.09413498640060425	0.2623526	No	
+row_53	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	10225	-0.14474676549434662	0.20985286	No	
+row_54	DNAAF4	dynein axonemal assembly factor 4 [Source:HGNC Symbol;Acc:HGNC:21493]	10418	-0.15719051659107208	0.20445354	No	
+row_55	CFAP298	cilia and flagella associated protein 298 [Source:HGNC Symbol;Acc:HGNC:1301]	11397	-0.21786168217658997	0.14966209	No	
+row_56	EDNRA	endothelin receptor type A [Source:HGNC Symbol;Acc:HGNC:3179]	12422	-0.28877967596054077	0.09513423	No	
+row_57	FCGR2A	Fc gamma receptor IIa [Source:HGNC Symbol;Acc:HGNC:3616]	12589	-0.3021610975265503	0.09825045	No	
+row_58	TBX21	T-box transcription factor 21 [Source:HGNC Symbol;Acc:HGNC:11599]	12615	-0.30409401655197144	0.11082718	No	
+row_59	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	12907	-0.3286055326461792	0.10687481	No	
+row_60	DNAAF2	dynein axonemal assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:20188]	13230	-0.3558488190174103	0.10213792	No	
+row_61	SLC9A3	solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073]	14301	-0.48402538895606995	0.053694837	No	

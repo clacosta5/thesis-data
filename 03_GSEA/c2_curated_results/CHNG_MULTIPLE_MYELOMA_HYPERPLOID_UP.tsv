@@ -1,0 +1,49 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA7	ubiquitin like modifier activating enzyme 7 [Source:HGNC Symbol;Acc:HGNC:12471]	959	0.5064547657966614	-0.035749838	No	
+row_1	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	8011	-0.01843867264688015	-0.5028651	No	
+row_2	RPL24	ribosomal protein L24 [Source:HGNC Symbol;Acc:HGNC:10325]	8113	-0.025641238316893578	-0.50815713	No	
+row_3	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	8256	-0.033118244260549545	-0.51575905	No	
+row_4	RPSA	ribosomal protein SA [Source:HGNC Symbol;Acc:HGNC:6502]	8715	-0.060297586023807526	-0.54284257	No	
+row_5	MRPL34	mitochondrial ribosomal protein L34 [Source:HGNC Symbol;Acc:HGNC:14488]	9480	-0.10138937085866928	-0.58797675	No	
+row_6	RSL24D1	ribosomal L24 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18479]	9517	-0.10350704938173294	-0.5846606	No	
+row_7	NCBP2	nuclear cap binding protein subunit 2 [Source:HGNC Symbol;Acc:HGNC:7659]	9571	-0.10658665746450424	-0.5823034	No	
+row_8	CLTA	clathrin light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	9780	-0.11823487281799316	-0.5895948	No	
+row_9	EIF3K	eukaryotic translation initiation factor 3 subunit K [Source:HGNC Symbol;Acc:HGNC:24656]	9977	-0.13008110225200653	-0.59543645	No	
+row_10	RPS13	ribosomal protein S13 [Source:HGNC Symbol;Acc:HGNC:10386]	10005	-0.131423220038414	-0.5899838	No	
+row_11	EIF3J	eukaryotic translation initiation factor 3 subunit J [Source:HGNC Symbol;Acc:HGNC:3270]	10348	-0.15303359925746918	-0.60425335	No	
+row_12	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	10909	-0.18750059604644775	-0.6310963	No	
+row_13	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	11113	-0.20033800601959229	-0.63352954	No	
+row_14	SCAMP5	secretory carrier membrane protein 5 [Source:HGNC Symbol;Acc:HGNC:30386]	11578	-0.2302369475364685	-0.6516428	Yes	
+row_15	QARS1	glutaminyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9751]	11694	-0.23784436285495758	-0.6461658	Yes	
+row_16	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	11846	-0.2474534809589386	-0.64254916	Yes	
+row_17	IMP3	IMP U3 small nucleolar ribonucleoprotein 3 [Source:HGNC Symbol;Acc:HGNC:14497]	12014	-0.2594973146915436	-0.63933086	Yes	
+row_18	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	12405	-0.28776252269744873	-0.64935976	Yes	
+row_19	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	12458	-0.29197216033935547	-0.63671607	Yes	
+row_20	RPL32	ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:10336]	12846	-0.3232274651527405	-0.6445907	Yes	
+row_21	DHPS	deoxyhypusine synthase [Source:HGNC Symbol;Acc:HGNC:2869]	12857	-0.3239694833755493	-0.6273945	Yes	
+row_22	FBL	fibrillarin [Source:HGNC Symbol;Acc:HGNC:3599]	13048	-0.3411688506603241	-0.62120074	Yes	
+row_23	RPL35A	ribosomal protein L35a [Source:HGNC Symbol;Acc:HGNC:10345]	13091	-0.34426501393318176	-0.6050102	Yes	
+row_24	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	13137	-0.3476666808128357	-0.58883137	Yes	
+row_25	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	13420	-0.37505805492401123	-0.5868774	Yes	
+row_26	RPLP1	ribosomal protein lateral stalk subunit P1 [Source:HGNC Symbol;Acc:HGNC:10372]	13633	-0.3967863619327545	-0.57907814	Yes	
+row_27	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	13940	-0.42996662855148315	-0.57569057	Yes	
+row_28	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	13992	-0.43584632873535156	-0.5550488	Yes	
+row_29	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	13999	-0.4366239905357361	-0.53137654	Yes	
+row_30	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	14038	-0.4412190318107605	-0.5095755	Yes	
+row_31	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	14051	-0.44333383440971375	-0.48593166	Yes	
+row_32	RPS6	ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:10429]	14055	-0.4437926411628723	-0.461665	Yes	
+row_33	HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1 [Source:HGNC Symbol;Acc:HGNC:4867]	14105	-0.45169469714164734	-0.44001678	Yes	
+row_34	EIF3G	eukaryotic translation initiation factor 3 subunit G [Source:HGNC Symbol;Acc:HGNC:3274]	14136	-0.4565906524658203	-0.41683716	Yes	
+row_35	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	14173	-0.46435701847076416	-0.39362776	Yes	
+row_36	RPS15	ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:10388]	14183	-0.4658553898334503	-0.36854318	Yes	
+row_37	SNRNP70	small nuclear ribonucleoprotein U1 subunit 70 [Source:HGNC Symbol;Acc:HGNC:11150]	14197	-0.4679238796234131	-0.3436101	Yes	
+row_38	USP3	ubiquitin specific peptidase 3 [Source:HGNC Symbol;Acc:HGNC:12626]	14201	-0.46858441829681396	-0.3179767	Yes	
+row_39	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]	14243	-0.474649578332901	-0.29453185	Yes	
+row_40	RPL29	ribosomal protein L29 [Source:HGNC Symbol;Acc:HGNC:10331]	14552	-0.5324575901031494	-0.28562683	Yes	
+row_41	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	14560	-0.5345067381858826	-0.25662476	Yes	
+row_42	RPL18	ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:10310]	14849	-0.6332679390907288	-0.24083433	Yes	
+row_43	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	15030	-0.7758119106292725	-0.21001522	Yes	
+row_44	RPL28	ribosomal protein L28 [Source:HGNC Symbol;Acc:HGNC:10330]	15074	-0.8566431403160095	-0.16564423	Yes	
+row_45	EEF2	eukaryotic translation elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:3214]	15093	-0.9358280897140503	-0.11524806	Yes	
+row_46	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	15104	-1.0412801504135132	-0.05850728	Yes	
+row_47	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	15105	-1.066095232963562	2.6544754E-4	Yes	

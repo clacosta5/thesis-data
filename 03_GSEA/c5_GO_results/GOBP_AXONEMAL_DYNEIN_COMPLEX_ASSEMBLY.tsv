@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TTC12	tetratricopeptide repeat domain 12 [Source:HGNC Symbol;Acc:HGNC:23700]	31	0.9641469717025757	0.06270004	Yes	
+row_1	DNAAF3	dynein axonemal assembly factor 3 [Source:HGNC Symbol;Acc:HGNC:30492]	61	0.8977333903312683	0.12107212	Yes	
+row_2	DNAAF1	dynein axonemal assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:30539]	169	0.765046238899231	0.16535749	Yes	
+row_3	DNAH8	dynein axonemal heavy chain 8 [Source:HGNC Symbol;Acc:HGNC:2952]	357	0.6701292991638184	0.19796027	Yes	
+row_4	DNAH2	dynein axonemal heavy chain 2 [Source:HGNC Symbol;Acc:HGNC:2948]	447	0.6280742883682251	0.23424013	Yes	
+row_5	CCDC39	coiled-coil domain 39 molecular ruler complex subunit [Source:HGNC Symbol;Acc:HGNC:25244]	595	0.5874451994895935	0.26394323	Yes	
+row_6	SPAG1	sperm associated antigen 1 [Source:HGNC Symbol;Acc:HGNC:11212]	637	0.5752657055854797	0.29986072	Yes	
+row_7	DNAI4	dynein axonemal intermediate chain 4 [Source:HGNC Symbol;Acc:HGNC:26252]	652	0.5723874568939209	0.33737615	Yes	
+row_8	DNAH5	dynein axonemal heavy chain 5 [Source:HGNC Symbol;Acc:HGNC:2950]	659	0.5710042119026184	0.37532946	Yes	
+row_9	DNAAF8	dynein axonemal assembly factor 8 [Source:HGNC Symbol;Acc:HGNC:25081]	1002	0.4994325041770935	0.38618413	Yes	
+row_10	DNAAF5	dynein axonemal assembly factor 5 [Source:HGNC Symbol;Acc:HGNC:26013]	1416	0.4428163766860962	0.3885258	Yes	
+row_11	CCDC65	coiled-coil domain containing 65 [Source:HGNC Symbol;Acc:HGNC:29937]	1437	0.44041040539741516	0.41677898	Yes	
+row_12	ODAD3	outer dynein arm docking complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:28303]	1456	0.4373880624771118	0.44496188	Yes	
+row_13	DNAH7	dynein axonemal heavy chain 7 [Source:HGNC Symbol;Acc:HGNC:18661]	1461	0.43649524450302124	0.4740136	Yes	
+row_14	DRC1	dynein regulatory complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24245]	1692	0.40747517347335815	0.4861225	Yes	
+row_15	CFAP57	cilia and flagella associated protein 57 [Source:HGNC Symbol;Acc:HGNC:26485]	1711	0.40496861934661865	0.51212794	Yes	
+row_16	DNAAF11	dynein axonemal assembly factor 11 [Source:HGNC Symbol;Acc:HGNC:16725]	1717	0.40454044938087463	0.5389671	Yes	
+row_17	ODAD2	outer dynein arm docking complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:25583]	1734	0.40172773599624634	0.5648875	Yes	
+row_18	ODAD1	outer dynein arm docking complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:26560]	1783	0.39671051502227783	0.588348	Yes	
+row_19	CFAP73	cilia and flagella associated protein 73 [Source:HGNC Symbol;Acc:HGNC:37100]	1889	0.38604027032852173	0.6073102	Yes	
+row_20	ZMYND10	zinc finger MYND-type containing 10 [Source:HGNC Symbol;Acc:HGNC:19412]	1953	0.3810392916202545	0.62872297	Yes	
+row_21	LRRC61	leucine rich repeat containing 61 [Source:HGNC Symbol;Acc:HGNC:21704]	2103	0.367965966463089	0.64355206	Yes	
+row_22	ODAD4	outer dynein arm docking complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:25280]	2423	0.3383462429046631	0.64511335	Yes	
+row_23	DNAI1	dynein axonemal intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2954]	2564	0.3286047875881195	0.65789586	Yes	
+row_24	DNAH17	dynein axonemal heavy chain 17 [Source:HGNC Symbol;Acc:HGNC:2946]	2594	0.3267245888710022	0.6779163	Yes	
+row_25	CLXN	calaxin [Source:HGNC Symbol;Acc:HGNC:25678]	2820	0.3079048991203308	0.68366927	Yes	
+row_26	CFAP100	cilia and flagella associated protein 100 [Source:HGNC Symbol;Acc:HGNC:26842]	3232	0.2792687714099884	0.675159	No	
+row_27	TEKT2	tektin 2 [Source:HGNC Symbol;Acc:HGNC:11725]	3543	0.26109668612480164	0.6721289	No	
+row_28	DNAI3	dynein axonemal intermediate chain 3 [Source:HGNC Symbol;Acc:HGNC:30711]	4301	0.20479406416416168	0.6356616	No	
+row_29	CCDC40	coiled-coil domain 40 molecular ruler complex subunit [Source:HGNC Symbol;Acc:HGNC:26090]	5400	0.13271623849868774	0.57172996	No	
+row_30	DNAH1	dynein axonemal heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2940]	8371	-0.03897504135966301	0.37730664	No	
+row_31	DNAAF10	dynein axonemal assembly factor 10 [Source:HGNC Symbol;Acc:HGNC:25176]	9038	-0.07756388187408447	0.33833125	No	
+row_32	DNAL1	dynein axonemal light chain 1 [Source:HGNC Symbol;Acc:HGNC:23247]	9332	-0.09413498640060425	0.32521507	No	
+row_33	DAW1	dynein assembly factor with WD repeats 1 [Source:HGNC Symbol;Acc:HGNC:26383]	10317	-0.150832399725914	0.2700634	No	
+row_34	DNAAF4	dynein axonemal assembly factor 4 [Source:HGNC Symbol;Acc:HGNC:21493]	10418	-0.15719051659107208	0.27398667	No	
+row_35	CCDC103	coiled-coil domain containing 103 [Source:HGNC Symbol;Acc:HGNC:32700]	11050	-0.19651436805725098	0.24532259	No	
+row_36	DNAAF2	dynein axonemal assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:20188]	13230	-0.3558488190174103	0.12465995	No	

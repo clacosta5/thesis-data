@@ -1,0 +1,50 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DMBT1	deleted in malignant brain tumors 1 [Source:HGNC Symbol;Acc:HGNC:2926]	2	1.296151876449585	0.074978195	Yes	
+row_1	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	54	0.909200131893158	0.1242794	Yes	
+row_2	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	113	0.812630832195282	0.16751972	Yes	
+row_3	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	137	0.7893103957176208	0.2117325	Yes	
+row_4	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	138	0.7890703678131104	0.2574585	Yes	
+row_5	BST2	bone marrow stromal cell antigen 2 [Source:HGNC Symbol;Acc:HGNC:1119]	166	0.766907274723053	0.30010748	Yes	
+row_6	AMBP	alpha-1-microglobulin/bikunin precursor [Source:HGNC Symbol;Acc:HGNC:453]	617	0.5807108283042908	0.30388072	Yes	
+row_7	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	766	0.5438798666000366	0.32557142	Yes	
+row_8	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	946	0.508098304271698	0.34313032	Yes	
+row_9	UBA7	ubiquitin like modifier activating enzyme 7 [Source:HGNC Symbol;Acc:HGNC:12471]	959	0.5064547657966614	0.37168223	Yes	
+row_10	CCL8	C-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:10635]	1358	0.4488621652126312	0.37126756	Yes	
+row_11	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	1384	0.4457860291004181	0.3954406	Yes	
+row_12	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1481	0.432934433221817	0.41415474	Yes	
+row_13	KLK1	kallikrein 1 [Source:HGNC Symbol;Acc:HGNC:6357]	1564	0.42197486758232117	0.43316332	Yes	
+row_14	SP110	SP110 nuclear body protein [Source:HGNC Symbol;Acc:HGNC:5401]	1758	0.3989335894584656	0.44346666	Yes	
+row_15	LY75	lymphocyte antigen 75 [Source:HGNC Symbol;Acc:HGNC:6729]	1778	0.39728954434394836	0.46522772	Yes	
+row_16	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	1845	0.3907448351383209	0.48348892	Yes	
+row_17	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	1982	0.37894344329833984	0.49641845	Yes	
+row_18	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]	2016	0.37636011838912964	0.5160371	Yes	
+row_19	SLC16A1	solute carrier family 16 member 1 [Source:HGNC Symbol;Acc:HGNC:10922]	2072	0.3715243339538574	0.53391486	Yes	
+row_20	CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	2266	0.3519781827926636	0.5414972	Yes	
+row_21	FLOT1	flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]	2373	0.3427269458770752	0.55431986	Yes	
+row_22	KRT16	keratin 16 [Source:HGNC Symbol;Acc:HGNC:6423]	2565	0.32858961820602417	0.5606796	Yes	
+row_23	IFI44	interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]	2706	0.3171643018722534	0.56976354	Yes	
+row_24	CMPK2	cytidine/uridine monophosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:27015]	2895	0.30208051204681396	0.57478625	Yes	
+row_25	SERPINI2	serpin family I member 2 [Source:HGNC Symbol;Acc:HGNC:8945]	3029	0.2917243242263794	0.5828607	Yes	
+row_26	GBP6	guanylate binding protein family member 6 [Source:HGNC Symbol;Acc:HGNC:25395]	3131	0.2853468060493469	0.5926903	Yes	
+row_27	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	3198	0.28096804022789	0.60459	Yes	
+row_28	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	3386	0.27162009477615356	0.607914	Yes	
+row_29	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3451	0.2678777277469635	0.6191879	Yes	
+row_30	NFKBIZ	NFKB inhibitor zeta [Source:HGNC Symbol;Acc:HGNC:29805]	4576	0.18574751913547516	0.555322	No	
+row_31	CTSC	cathepsin C [Source:HGNC Symbol;Acc:HGNC:2528]	5202	0.144644632935524	0.5222061	No	
+row_32	ARG2	arginase 2 [Source:HGNC Symbol;Acc:HGNC:664]	5357	0.13518059253692627	0.5198146	No	
+row_33	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	5615	0.11707866936922073	0.5095353	No	
+row_34	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	6404	0.07020341604948044	0.46128297	No	
+row_35	GATM	glycine amidinotransferase [Source:HGNC Symbol;Acc:HGNC:4175]	6735	0.05142344534397125	0.44235203	No	
+row_36	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	6811	0.04736236855387688	0.44011688	No	
+row_37	DUSP28	dual specificity phosphatase 28 [Source:HGNC Symbol;Acc:HGNC:33237]	6952	0.03883647546172142	0.43307188	No	
+row_38	GK	glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289]	7274	0.02140083722770214	0.41299874	No	
+row_39	PDIA4	protein disulfide isomerase family A member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	7497	0.00997124332934618	0.3988365	No	
+row_40	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	7867	-0.010657034814357758	0.3749537	No	
+row_41	CD14	CD14 molecule [Source:HGNC Symbol;Acc:HGNC:1628]	8465	-0.04452896863222122	0.3378953	No	
+row_42	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	9021	-0.07672405987977982	0.30549127	No	
+row_43	SLC40A1	solute carrier family 40 member 1 [Source:HGNC Symbol;Acc:HGNC:10909]	9369	-0.09627711772918701	0.2880308	No	
+row_44	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	11904	-0.25139790773391724	0.13434999	No	
+row_45	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	12692	-0.31000831723213196	0.10006057	No	
+row_46	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	12907	-0.3286055326461792	0.10489411	No	
+row_47	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	13175	-0.3507378101348877	0.10749119	No	
+row_48	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	13270	-0.3598582446575165	0.1221034	No	

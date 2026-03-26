@@ -1,0 +1,82 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	13	1.114200472831726	0.04097481	Yes	
+row_1	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	36	0.9539570212364197	0.07533341	Yes	
+row_2	TRIM45	tripartite motif containing 45 [Source:HGNC Symbol;Acc:HGNC:19018]	53	0.9097021818161011	0.1084294	Yes	
+row_3	IRF2	interferon regulatory factor 2 [Source:HGNC Symbol;Acc:HGNC:6117]	76	0.8635164499282837	0.13939182	Yes	
+row_4	VCAM1	vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	83	0.8554574847221375	0.17111623	Yes	
+row_5	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	87	0.8473825454711914	0.20273703	Yes	
+row_6	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	113	0.812630832195282	0.23158902	Yes	
+row_7	GBP5	guanylate binding protein 5 [Source:HGNC Symbol;Acc:HGNC:19895]	192	0.7510424256324768	0.25460178	Yes	
+row_8	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	426	0.6375555992126465	0.26303953	Yes	
+row_9	IRF5	interferon regulatory factor 5 [Source:HGNC Symbol;Acc:HGNC:6120]	517	0.6101487874984741	0.27996305	Yes	
+row_10	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	650	0.5732322931289673	0.2927057	Yes	
+row_11	GBP1	guanylate binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4182]	686	0.5637161135673523	0.31154522	Yes	
+row_12	SOCS3	suppressor of cytokine signaling 3 [Source:HGNC Symbol;Acc:HGNC:19391]	698	0.5601138472557068	0.33184636	Yes	
+row_13	TRIM21	tripartite motif containing 21 [Source:HGNC Symbol;Acc:HGNC:11312]	901	0.5174407362937927	0.33783633	Yes	
+row_14	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	1088	0.48715856671333313	0.34375373	Yes	
+row_15	OAS3	2'-5'-oligoadenylate synthetase 3 [Source:HGNC Symbol;Acc:HGNC:8088]	1129	0.4799100160598755	0.3591135	Yes	
+row_16	PTAFR	platelet activating factor receptor [Source:HGNC Symbol;Acc:HGNC:9582]	1222	0.46618765592575073	0.37049803	Yes	
+row_17	IFNGR1	interferon gamma receptor 1 [Source:HGNC Symbol;Acc:HGNC:5439]	1263	0.46052640676498413	0.38512993	Yes	
+row_18	TRIM17	tripartite motif containing 17 [Source:HGNC Symbol;Acc:HGNC:13430]	1279	0.4589168131351471	0.40136483	Yes	
+row_19	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	1431	0.4412044882774353	0.40788543	Yes	
+row_20	TRIM68	tripartite motif containing 68 [Source:HGNC Symbol;Acc:HGNC:21161]	1610	0.4152643382549286	0.41163543	Yes	
+row_21	TRIM22	tripartite motif containing 22 [Source:HGNC Symbol;Acc:HGNC:16379]	1959	0.3805437982082367	0.40277016	Yes	
+row_22	GBP4	guanylate binding protein 4 [Source:HGNC Symbol;Acc:HGNC:20480]	1973	0.3794270157814026	0.41615316	Yes	
+row_23	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	1982	0.37894344329833984	0.42985073	Yes	
+row_24	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]	2016	0.37636011838912964	0.44178784	Yes	
+row_25	TRIM6	tripartite motif containing 6 [Source:HGNC Symbol;Acc:HGNC:16277]	2095	0.3691139221191406	0.45045862	Yes	
+row_26	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	2120	0.3666486442089081	0.46262988	Yes	
+row_27	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	2139	0.3645748198032379	0.47512248	Yes	
+row_28	IRF6	interferon regulatory factor 6 [Source:HGNC Symbol;Acc:HGNC:6121]	2283	0.35010185837745667	0.47875437	Yes	
+row_29	CAMK2A	calcium/calmodulin dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	2546	0.3301919400691986	0.47372058	Yes	
+row_30	TRIM29	tripartite motif containing 29 [Source:HGNC Symbol;Acc:HGNC:17274]	2568	0.3284139335155487	0.4846557	Yes	
+row_31	CD44	CD44 molecule (IN blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	2675	0.31950637698173523	0.48960057	Yes	
+row_32	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	2865	0.30440375208854675	0.48845568	Yes	
+row_33	TRIM14	tripartite motif containing 14 [Source:HGNC Symbol;Acc:HGNC:16283]	2887	0.3027750253677368	0.49842802	Yes	
+row_34	PML	PML nuclear body scaffold [Source:HGNC Symbol;Acc:HGNC:9113]	2945	0.29792603850364685	0.5058229	Yes	
+row_35	GBP6	guanylate binding protein family member 6 [Source:HGNC Symbol;Acc:HGNC:25395]	3131	0.2853468060493469	0.50422853	Yes	
+row_36	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	3198	0.28096804022789	0.5103878	Yes	
+row_37	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3451	0.2678777277469635	0.5036794	No	
+row_38	HLA-DQB2	major histocompatibility complex, class II, DQ beta 2 [Source:HGNC Symbol;Acc:HGNC:4945]	4222	0.2106509655714035	0.46035534	No	
+row_39	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	4242	0.20953279733657837	0.46695936	No	
+row_40	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	4794	0.1720053255558014	0.43675596	No	
+row_41	TRIM46	tripartite motif containing 46 [Source:HGNC Symbol;Acc:HGNC:19019]	5048	0.15568827092647552	0.42576814	No	
+row_42	TRIM38	tripartite motif containing 38 [Source:HGNC Symbol;Acc:HGNC:10059]	5134	0.14896486699581146	0.42570627	No	
+row_43	TRIM25	tripartite motif containing 25 [Source:HGNC Symbol;Acc:HGNC:12932]	5374	0.13439741730690002	0.41485047	No	
+row_44	TRIM48	tripartite motif containing 48 [Source:HGNC Symbol;Acc:HGNC:19021]	5379	0.13415126502513885	0.41962188	No	
+row_45	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	5417	0.1315106302499771	0.4220984	No	
+row_46	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	5484	0.1273239403963089	0.4224881	No	
+row_47	TRIM5	tripartite motif containing 5 [Source:HGNC Symbol;Acc:HGNC:16276]	5558	0.12132921814918518	0.42218688	No	
+row_48	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	5615	0.11707866936922073	0.42285722	No	
+row_49	SUMO1	small ubiquitin like modifier 1 [Source:HGNC Symbol;Acc:HGNC:12502]	6075	0.08936735987663269	0.39567214	No	
+row_50	PTPN6	protein tyrosine phosphatase non-receptor type 6 [Source:HGNC Symbol;Acc:HGNC:9658]	6325	0.07410381734371185	0.38188687	No	
+row_51	TRIM26	tripartite motif containing 26 [Source:HGNC Symbol;Acc:HGNC:12962]	6386	0.07101570814847946	0.38056135	No	
+row_52	TRIM62	tripartite motif containing 62 [Source:HGNC Symbol;Acc:HGNC:25574]	6548	0.062535859644413	0.37219703	No	
+row_53	PTPN2	protein tyrosine phosphatase non-receptor type 2 [Source:HGNC Symbol;Acc:HGNC:9650]	6668	0.05517562851309776	0.36635092	No	
+row_54	PIAS1	protein inhibitor of activated STAT 1 [Source:HGNC Symbol;Acc:HGNC:2752]	6817	0.04693683609366417	0.35826585	No	
+row_55	MT2A	metallothionein 2A [Source:HGNC Symbol;Acc:HGNC:7406]	6895	0.04222899302840233	0.35472816	No	
+row_56	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	7406	0.015276461839675903	0.32136744	No	
+row_57	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	7627	0.0015559273306280375	0.3067875	No	
+row_58	SP100	SP100 nuclear antigen [Source:HGNC Symbol;Acc:HGNC:11206]	8045	-0.020752770826220512	0.27982044	No	
+row_59	CAMK2G	calcium/calmodulin dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	8642	-0.055548012256622314	0.24224967	No	
+row_60	IRF9	interferon regulatory factor 9 [Source:HGNC Symbol;Acc:HGNC:6131]	8768	-0.06345122307538986	0.2363151	No	
+row_61	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	9021	-0.07672405987977982	0.22242862	No	
+row_62	IFNGR2	interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	9437	-0.09977201372385025	0.1985619	No	
+row_63	JAK1	Janus kinase 1 [Source:HGNC Symbol;Acc:HGNC:6190]	9714	-0.11399053037166595	0.18447793	No	
+row_64	SMAD7	SMAD family member 7 [Source:HGNC Symbol;Acc:HGNC:6773]	9784	-0.11837729811668396	0.18433203	No	
+row_65	PTPN1	protein tyrosine phosphatase non-receptor type 1 [Source:HGNC Symbol;Acc:HGNC:9642]	10012	-0.1317278891801834	0.17417447	No	
+row_66	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	10062	-0.13494035601615906	0.17598131	No	
+row_67	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	10152	-0.14121419191360474	0.17536221	No	
+row_68	IRF3	interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	10198	-0.14331930875778198	0.17774984	No	
+row_69	TRIM35	tripartite motif containing 35 [Source:HGNC Symbol;Acc:HGNC:16285]	11173	-0.20395231246948242	0.12060051	No	
+row_70	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	11345	-0.2144523411989212	0.11727549	No	
+row_71	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	11684	-0.23721551895141602	0.10369342	No	
+row_72	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	11818	-0.24618329107761383	0.10408839	No	
+row_73	CIITA	class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067]	12491	-0.29471030831336975	0.070441626	No	
+row_74	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	12499	-0.29513999819755554	0.08105878	No	
+row_75	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	12740	-0.3134876787662506	0.07686156	No	
+row_76	TRIM2	tripartite motif containing 2 [Source:HGNC Symbol;Acc:HGNC:15974]	12867	-0.3251916468143463	0.08068918	No	
+row_77	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	12907	-0.3286055326461792	0.09043379	No	
+row_78	CAMK2B	calcium/calmodulin dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	14118	-0.4535190165042877	0.026953058	No	
+row_79	TRIM3	tripartite motif containing 3 [Source:HGNC Symbol;Acc:HGNC:10064]	14311	-0.4855806827545166	0.032412	No	
+row_80	YBX1	Y-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8014]	14622	-0.5490829944610596	0.032404054	No	

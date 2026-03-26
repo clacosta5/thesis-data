@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADA2	adenosine deaminase 2 [Source:HGNC Symbol;Acc:HGNC:1839]	525	0.6065144538879395	0.015220568	No	
+row_1	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	2343	0.34544283151626587	-0.07681264	No	
+row_2	RPS10	ribosomal protein S10 [Source:HGNC Symbol;Acc:HGNC:10383]	6517	0.06442845612764359	-0.34833038	No	
+row_3	TSR2	TSR2 ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:25455]	6652	0.05619225651025772	-0.35258296	No	
+row_4	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	8011	-0.01843867264688015	-0.4411503	No	
+row_5	ALDOA	aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]	8043	-0.020558208227157593	-0.4415104	No	
+row_6	SF3B1	splicing factor 3b subunit 1 [Source:HGNC Symbol;Acc:HGNC:10768]	8215	-0.031211379915475845	-0.4502789	No	
+row_7	HK1	hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922]	8946	-0.07293730974197388	-0.492688	No	
+row_8	ABCD4	ATP binding cassette subfamily D member 4 [Source:HGNC Symbol;Acc:HGNC:68]	10206	-0.14370134472846985	-0.56435126	No	
+row_9	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	10340	-0.15228503942489624	-0.560608	No	
+row_10	KIT	KIT proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6342]	10771	-0.17850127816200256	-0.5744043	No	
+row_11	RPL9	ribosomal protein L9 [Source:HGNC Symbol;Acc:HGNC:10369]	11112	-0.2002967894077301	-0.58043146	No	
+row_12	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	11906	-0.2515193521976471	-0.6122836	Yes	
+row_13	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	11916	-0.25212010741233826	-0.592076	Yes	
+row_14	SRSF2	serine and arginine rich splicing factor 2 [Source:HGNC Symbol;Acc:HGNC:10783]	12282	-0.27816328406333923	-0.5933362	Yes	
+row_15	RPL26	ribosomal protein L26 [Source:HGNC Symbol;Acc:HGNC:10327]	12311	-0.28095340728759766	-0.57200986	Yes	
+row_16	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	12405	-0.28776252269744873	-0.55443364	Yes	
+row_17	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	12837	-0.3228197693824768	-0.5563873	Yes	
+row_18	RPS7	ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:10440]	12947	-0.3325869143009186	-0.53617364	Yes	
+row_19	SCARB2	scavenger receptor class B member 2 [Source:HGNC Symbol;Acc:HGNC:1665]	13019	-0.3391481637954712	-0.51289773	Yes	
+row_20	LCAT	lecithin-cholesterol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6522]	13089	-0.3441188633441925	-0.4890789	Yes	
+row_21	RPL35A	ribosomal protein L35a [Source:HGNC Symbol;Acc:HGNC:10345]	13091	-0.34426501393318176	-0.46073696	Yes	
+row_22	RPL27	ribosomal protein L27 [Source:HGNC Symbol;Acc:HGNC:10328]	13238	-0.35661637783050537	-0.440995	Yes	
+row_23	RPS24	ribosomal protein S24 [Source:HGNC Symbol;Acc:HGNC:10411]	13535	-0.38644471764564514	-0.4287426	Yes	
+row_24	HEATR3	HEAT repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:26087]	13711	-0.4048263430595398	-0.40694624	Yes	
+row_25	RPL11	ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:10301]	13744	-0.408039391040802	-0.37539825	Yes	
+row_26	RPS15A	ribosomal protein S15a [Source:HGNC Symbol;Acc:HGNC:10389]	13759	-0.4097537100315094	-0.3425147	Yes	
+row_27	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	13876	-0.4221542477607727	-0.31537446	Yes	
+row_28	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	13972	-0.43332040309906006	-0.2859197	Yes	
+row_29	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	13999	-0.4366239905357361	-0.2516149	Yes	
+row_30	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	14307	-0.4848293960094452	-0.23197363	Yes	
+row_31	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	14797	-0.6112908124923706	-0.21397072	Yes	
+row_32	RPL18	ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:10310]	14849	-0.6332679390907288	-0.16509761	Yes	
+row_33	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:HGNC:10360]	14964	-0.7044463753700256	-0.11453035	Yes	
+row_34	TET2	tet methylcytosine dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:25941]	14987	-0.7270827889442444	-0.05599193	Yes	
+row_35	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	15030	-0.7758119106292725	0.005240757	Yes	

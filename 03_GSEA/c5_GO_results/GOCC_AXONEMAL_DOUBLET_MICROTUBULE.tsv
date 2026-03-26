@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EFHC1	EF-hand domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16406]	205	0.7409284114837646	0.042554144	Yes	
+row_1	CFAP53	cilia and flagella associated protein 53 [Source:HGNC Symbol;Acc:HGNC:26530]	318	0.6863613128662109	0.08714436	Yes	
+row_2	CFAP68	cilia and flagella associated protein 68 [Source:HGNC Symbol;Acc:HGNC:1163]	663	0.5703221559524536	0.10754245	Yes	
+row_3	EFCAB6	EF-hand calcium binding domain 6 [Source:HGNC Symbol;Acc:HGNC:24204]	738	0.5508344173431396	0.14438222	Yes	
+row_4	RIBC1	RIB43A domain with coiled-coils 1 [Source:HGNC Symbol;Acc:HGNC:26537]	1107	0.48348167538642883	0.15660541	Yes	
+row_5	EFHC2	EF-hand domain containing 2 [Source:HGNC Symbol;Acc:HGNC:26233]	1177	0.47323861718177795	0.18789558	Yes	
+row_6	MNS1	meiosis specific nuclear structural 1 [Source:HGNC Symbol;Acc:HGNC:29636]	1192	0.47169703245162964	0.22271903	Yes	
+row_7	NME7	NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461]	1285	0.4574630856513977	0.25128707	Yes	
+row_8	CFAP90	cilia and flagella associated protein 90 [Source:HGNC Symbol;Acc:HGNC:27028]	1486	0.4324782192707062	0.27079388	Yes	
+row_9	CFAP45	cilia and flagella associated protein 45 [Source:HGNC Symbol;Acc:HGNC:17229]	1875	0.38781923055648804	0.27443895	Yes	
+row_10	CFAP73	cilia and flagella associated protein 73 [Source:HGNC Symbol;Acc:HGNC:37100]	1889	0.38604027032852173	0.30283636	Yes	
+row_11	CFAP52	cilia and flagella associated protein 52 [Source:HGNC Symbol;Acc:HGNC:16053]	2147	0.36397185921669006	0.3133678	Yes	
+row_12	ENKUR	enkurin, TRPC channel interacting protein [Source:HGNC Symbol;Acc:HGNC:28388]	2205	0.3584252595901489	0.33675203	Yes	
+row_13	CIMIP2C	ciliary microtubule inner protein 2C [Source:HGNC Symbol;Acc:HGNC:27938]	2258	0.3526843190193176	0.36003295	Yes	
+row_14	CFAP144	cilia and flagella associated protein 144 [Source:HGNC Symbol;Acc:HGNC:34347]	2350	0.34474173188209534	0.3801236	Yes	
+row_15	CFAP276	cilia and flagella associated protein 276 [Source:HGNC Symbol;Acc:HGNC:32331]	2389	0.34135839343070984	0.40347517	Yes	
+row_16	CFAP141	cilia and flagella associated protein 141 [Source:HGNC Symbol;Acc:HGNC:32305]	2534	0.33137378096580505	0.41903517	Yes	
+row_17	SPACA9	sperm acrosome associated 9 [Source:HGNC Symbol;Acc:HGNC:1367]	2670	0.31986549496650696	0.43432018	Yes	
+row_18	SPAG8	sperm associated antigen 8 [Source:HGNC Symbol;Acc:HGNC:14105]	2679	0.31931549310684204	0.457992	Yes	
+row_19	CFAP107	cilia and flagella associated protein 107 [Source:HGNC Symbol;Acc:HGNC:28567]	2731	0.31546106934547424	0.4785179	Yes	
+row_20	PIERCE2	piercer of microtubule wall 2 [Source:HGNC Symbol;Acc:HGNC:44654]	2871	0.30380749702453613	0.49232033	Yes	
+row_21	CFAP126	cilia and flagella associated protein 126 [Source:HGNC Symbol;Acc:HGNC:32325]	2880	0.3030843138694763	0.51476187	Yes	
+row_22	PIERCE1	piercer of microtubule wall 1 [Source:HGNC Symbol;Acc:HGNC:28435]	2966	0.29665422439575195	0.53160584	Yes	
+row_23	TEKT1	tektin 1 [Source:HGNC Symbol;Acc:HGNC:15534]	3061	0.28944626450538635	0.54730624	Yes	
+row_24	SPMIP6	sperm microtubule inner protein 6 [Source:HGNC Symbol;Acc:HGNC:19919]	3142	0.28473731875419617	0.56357884	Yes	
+row_25	CFAP77	cilia and flagella associated protein 77 [Source:HGNC Symbol;Acc:HGNC:33776]	3174	0.2825716733932495	0.5829392	Yes	
+row_26	CFAP100	cilia and flagella associated protein 100 [Source:HGNC Symbol;Acc:HGNC:26842]	3232	0.2792687714099884	0.6003237	Yes	
+row_27	TEKT2	tektin 2 [Source:HGNC Symbol;Acc:HGNC:11725]	3543	0.26109668612480164	0.5995403	Yes	
+row_28	CFAP210	cilia and flagella associated protein 210 [Source:HGNC Symbol;Acc:HGNC:25064]	3948	0.2296990156173706	0.5901387	Yes	
+row_29	SPMIP8	sperm microtubule inner protein 8 [Source:HGNC Symbol;Acc:HGNC:33745]	4029	0.22347448766231537	0.6017678	Yes	
+row_30	CFAP95	cilia and flagella associated protein 95 [Source:HGNC Symbol;Acc:HGNC:31422]	4427	0.19653064012527466	0.5903167	No	
+row_31	CIMIP2A	ciliary microtubule inner protein 2A [Source:HGNC Symbol;Acc:HGNC:33818]	4964	0.1615011841058731	0.5669857	No	
+row_32	CFAP161	cilia and flagella associated protein 161 [Source:HGNC Symbol;Acc:HGNC:26782]	5173	0.14642521739006042	0.56428003	No	
+row_33	TEKT5	tektin 5 [Source:HGNC Symbol;Acc:HGNC:26554]	5499	0.12596718966960907	0.5522589	No	
+row_34	TSSK6	testis specific serine kinase 6 [Source:HGNC Symbol;Acc:HGNC:30410]	6047	0.09048508107662201	0.52281517	No	
+row_35	RIBC2	RIB43A domain with coiled-coils 2 [Source:HGNC Symbol;Acc:HGNC:13241]	7759	-0.0051923589780926704	0.40965685	No	
+row_36	TEKT3	tektin 3 [Source:HGNC Symbol;Acc:HGNC:14293]	7909	-0.012988654896616936	0.40075284	No	
+row_37	CFAP206	cilia and flagella associated protein 206 [Source:HGNC Symbol;Acc:HGNC:21405]	9281	-0.09141857177019119	0.31669444	No	
+row_38	CFAP20	cilia and flagella associated protein 20 [Source:HGNC Symbol;Acc:HGNC:29523]	10465	-0.16013416647911072	0.25032118	No	
+row_39	SAXO4	stabilizer of axonemal microtubules 4 [Source:HGNC Symbol;Acc:HGNC:28869]	10646	-0.1694190800189972	0.25121656	No	
+row_40	EFHB	EF-hand domain family member B [Source:HGNC Symbol;Acc:HGNC:26330]	12092	-0.26593533158302307	0.17547469	No	
+row_41	TEKTIP1	tektin bundle interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:34496]	12871	-0.3256712853908539	0.14852655	No	

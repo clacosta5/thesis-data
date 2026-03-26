@@ -1,0 +1,159 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	YBX3	Y-box binding protein 3 [Source:HGNC Symbol;Acc:HGNC:2428]	401	0.6421614289283752	-0.01365535	No	
+row_1	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	958	0.5067373514175415	-0.040453292	No	
+row_2	PARP16	poly(ADP-ribose) polymerase family member 16 [Source:HGNC Symbol;Acc:HGNC:26040]	967	0.5055828094482422	-0.030624287	No	
+row_3	CNBP	CCHC-type zinc finger nucleic acid binding protein [Source:HGNC Symbol;Acc:HGNC:13164]	1385	0.44576138257980347	-0.049375772	No	
+row_4	CPEB1	cytoplasmic polyadenylation element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:21744]	3041	0.2906724512577057	-0.15410474	No	
+row_5	NCK1	NCK adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:7664]	3480	0.2661456763744354	-0.17794271	No	
+row_6	DHX36	DEAH-box helicase 36 [Source:HGNC Symbol;Acc:HGNC:14410]	3608	0.256071537733078	-0.18118729	No	
+row_7	EIF2B2	eukaryotic translation initiation factor 2B subunit beta [Source:HGNC Symbol;Acc:HGNC:3258]	3770	0.2437596172094345	-0.1869582	No	
+row_8	EIF2D	eukaryotic translation initiation factor 2D [Source:HGNC Symbol;Acc:HGNC:6583]	4062	0.22179082036018372	-0.20187394	No	
+row_9	SMYD5	SMYD family member 5 [Source:HGNC Symbol;Acc:HGNC:16258]	4330	0.20337212085723877	-0.21556212	No	
+row_10	EIF4H	eukaryotic translation initiation factor 4H [Source:HGNC Symbol;Acc:HGNC:12741]	4339	0.20286928117275238	-0.2119385	No	
+row_11	HHEX	hematopoietically expressed homeobox [Source:HGNC Symbol;Acc:HGNC:4901]	4354	0.2015664428472519	-0.20874287	No	
+row_12	EIF2B3	eukaryotic translation initiation factor 2B subunit gamma [Source:HGNC Symbol;Acc:HGNC:3259]	4430	0.19639836251735687	-0.20973292	No	
+row_13	PIWIL2	piwi like RNA-mediated gene silencing 2 [Source:HGNC Symbol;Acc:HGNC:17644]	4612	0.18405501544475555	-0.21806534	No	
+row_14	RPL26L1	ribosomal protein L26 like 1 [Source:HGNC Symbol;Acc:HGNC:17050]	4622	0.1835649311542511	-0.21490432	No	
+row_15	RBM24	RNA binding motif protein 24 [Source:HGNC Symbol;Acc:HGNC:21539]	4663	0.180741086602211	-0.2138745	No	
+row_16	RPSA2	ribosomal protein SA 2 [Source:HGNC Symbol;Acc:HGNC:36809]	4686	0.17886091768741608	-0.21167937	No	
+row_17	SLBP	stem-loop histone mRNA binding protein [Source:HGNC Symbol;Acc:HGNC:10904]	5032	0.1571168601512909	-0.23153242	No	
+row_18	SARS1	seryl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:10537]	5107	0.1507836878299713	-0.23339066	No	
+row_19	EIF2B1	eukaryotic translation initiation factor 2B subunit alpha [Source:HGNC Symbol;Acc:HGNC:3257]	5174	0.14632602035999298	-0.23480521	No	
+row_20	ALKBH3	alkB homolog 3, alpha-ketoglutarate dependent dioxygenase [Source:HGNC Symbol;Acc:HGNC:30141]	5696	0.1121676042675972	-0.2673507	No	
+row_21	EIF3B	eukaryotic translation initiation factor 3 subunit B [Source:HGNC Symbol;Acc:HGNC:3280]	5797	0.10544466972351074	-0.27187723	No	
+row_22	NCBP1	nuclear cap binding protein subunit 1 [Source:HGNC Symbol;Acc:HGNC:7658]	5810	0.10479346662759781	-0.27053162	No	
+row_23	EIF2S2	eukaryotic translation initiation factor 2 subunit beta [Source:HGNC Symbol;Acc:HGNC:3266]	5867	0.10028455406427383	-0.27222118	No	
+row_24	PAIP1	poly(A) binding protein interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:16945]	5978	0.09373234212398529	-0.2776566	No	
+row_25	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:28866]	6360	0.07237651199102402	-0.3016545	No	
+row_26	EIF4G1	eukaryotic translation initiation factor 4 gamma 1 [Source:HGNC Symbol;Acc:HGNC:3296]	6451	0.06774043291807175	-0.30628514	No	
+row_27	RPS10	ribosomal protein S10 [Source:HGNC Symbol;Acc:HGNC:10383]	6517	0.06442845612764359	-0.30931166	No	
+row_28	EIF5	eukaryotic translation initiation factor 5 [Source:HGNC Symbol;Acc:HGNC:3299]	6531	0.06361855566501617	-0.30887696	No	
+row_29	AARS1	alanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:20]	7062	0.03328278660774231	-0.34364146	No	
+row_30	FMR1	fragile X messenger ribonucleoprotein 1 [Source:HGNC Symbol;Acc:HGNC:3775]	7088	0.031359970569610596	-0.34467062	No	
+row_31	MCTS1	MCTS1 re-initiation and release factor [Source:HGNC Symbol;Acc:HGNC:23357]	7842	-0.009497027844190598	-0.39483708	No	
+row_32	DENR	density regulated re-initiation and release factor [Source:HGNC Symbol;Acc:HGNC:2769]	7888	-0.01183987781405449	-0.39760402	No	
+row_33	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	8011	-0.01843867264688015	-0.40538546	No	
+row_34	DHX29	DExH-box helicase 29 [Source:HGNC Symbol;Acc:HGNC:15815]	8026	-0.019443735480308533	-0.40592322	No	
+row_35	FAU	FAU ubiquitin like and ribosomal protein S30 fusion [Source:HGNC Symbol;Acc:HGNC:3597]	8094	-0.0242924727499485	-0.40990627	No	
+row_36	RPL24	ribosomal protein L24 [Source:HGNC Symbol;Acc:HGNC:10325]	8113	-0.025641238316893578	-0.41058448	No	
+row_37	ETF1	eukaryotic translation termination factor 1 [Source:HGNC Symbol;Acc:HGNC:3477]	8152	-0.02800537273287773	-0.41255185	No	
+row_38	EIF2S3	eukaryotic translation initiation factor 2 subunit gamma [Source:HGNC Symbol;Acc:HGNC:3267]	8354	-0.038393329828977585	-0.42520785	No	
+row_39	EIF4A1	eukaryotic translation initiation factor 4A1 [Source:HGNC Symbol;Acc:HGNC:3282]	8538	-0.04886455461382866	-0.43644533	No	
+row_40	RPSA	ribosomal protein SA [Source:HGNC Symbol;Acc:HGNC:6502]	8715	-0.060297586023807526	-0.44698027	No	
+row_41	CPEB2	cytoplasmic polyadenylation element binding protein 2 [Source:HGNC Symbol;Acc:HGNC:21745]	8751	-0.06266926974058151	-0.44803643	No	
+row_42	EIF3M	eukaryotic translation initiation factor 3 subunit M [Source:HGNC Symbol;Acc:HGNC:24460]	8762	-0.06314679235219955	-0.44741076	No	
+row_43	RWDD1	RWD domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20993]	8797	-0.06499424576759338	-0.4483524	No	
+row_44	NMNAT2	nicotinamide nucleotide adenylyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16789]	8899	-0.07020173221826553	-0.45366827	No	
+row_45	RBM4	RNA binding motif protein 4 [Source:HGNC Symbol;Acc:HGNC:9901]	8925	-0.07173336297273636	-0.4538698	No	
+row_46	RPL17	ribosomal protein L17 [Source:HGNC Symbol;Acc:HGNC:10307]	8958	-0.0738338753581047	-0.45449644	No	
+row_47	EIF3C	eukaryotic translation initiation factor 3 subunit C [Source:HGNC Symbol;Acc:HGNC:3279]	9048	-0.07823812961578369	-0.458845	No	
+row_48	CSDE1	cold shock domain containing E1 [Source:HGNC Symbol;Acc:HGNC:29905]	9148	-0.08327163755893707	-0.46375918	No	
+row_49	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	9432	-0.09952256083488464	-0.48064628	No	
+row_50	NCBP2	nuclear cap binding protein subunit 2 [Source:HGNC Symbol;Acc:HGNC:7659]	9571	-0.10658665746450424	-0.48769087	No	
+row_51	EIF3I	eukaryotic translation initiation factor 3 subunit I [Source:HGNC Symbol;Acc:HGNC:3272]	9591	-0.10798710584640503	-0.48674795	No	
+row_52	FTSJ1	FtsJ RNA 2'-O-methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:13254]	9592	-0.10803217440843582	-0.48453337	No	
+row_53	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	9611	-0.10878877341747284	-0.48350716	No	
+row_54	MIF4GD	MIF4G domain containing [Source:HGNC Symbol;Acc:HGNC:24030]	9661	-0.11111336946487427	-0.48450658	No	
+row_55	EIF3D	eukaryotic translation initiation factor 3 subunit D [Source:HGNC Symbol;Acc:HGNC:3278]	9662	-0.11117764562368393	-0.4822275	No	
+row_56	EIF3K	eukaryotic translation initiation factor 3 subunit K [Source:HGNC Symbol;Acc:HGNC:24656]	9977	-0.13008110225200653	-0.5005615	No	
+row_57	RPL22L1	ribosomal protein L22 like 1 [Source:HGNC Symbol;Acc:HGNC:27610]	9996	-0.13098512589931488	-0.49908024	No	
+row_58	IMPACT	impact RWD domain protein [Source:HGNC Symbol;Acc:HGNC:20387]	10000	-0.13106480240821838	-0.49659416	No	
+row_59	RPS13	ribosomal protein S13 [Source:HGNC Symbol;Acc:HGNC:10386]	10005	-0.131423220038414	-0.49416763	No	
+row_60	RPS18	ribosomal protein S18 [Source:HGNC Symbol;Acc:HGNC:10401]	10035	-0.1330999881029129	-0.4933787	No	
+row_61	RPL36A	ribosomal protein L36a [Source:HGNC Symbol;Acc:HGNC:10359]	10158	-0.1415327489376068	-0.49863684	No	
+row_62	EIF3J	eukaryotic translation initiation factor 3 subunit J [Source:HGNC Symbol;Acc:HGNC:3270]	10348	-0.15303359925746918	-0.5081402	No	
+row_63	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	10349	-0.15308897197246552	-0.505002	No	
+row_64	EIF3CL	eukaryotic translation initiation factor 3 subunit C like [Source:HGNC Symbol;Acc:HGNC:26347]	10880	-0.18611474335193634	-0.53663355	No	
+row_65	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	10909	-0.18750059604644775	-0.5346626	No	
+row_66	NEMF	nuclear export mediator factor [Source:HGNC Symbol;Acc:HGNC:10663]	10980	-0.19148896634578705	-0.53541887	No	
+row_67	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	11068	-0.19759617745876312	-0.5371869	No	
+row_68	RPL9	ribosomal protein L9 [Source:HGNC Symbol;Acc:HGNC:10369]	11112	-0.2002967894077301	-0.53595686	No	
+row_69	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	11113	-0.20033800601959229	-0.5318501	No	
+row_70	SH3BGRL	SH3 domain binding glutamate rich protein like [Source:HGNC Symbol;Acc:HGNC:10823]	11249	-0.208769291639328	-0.5365994	No	
+row_71	CPEB3	cytoplasmic polyadenylation element binding protein 3 [Source:HGNC Symbol;Acc:HGNC:21746]	11386	-0.21707852184772491	-0.5412452	No	
+row_72	DHX9	DExH-box helicase 9 [Source:HGNC Symbol;Acc:HGNC:2750]	11504	-0.22514031827449799	-0.54445505	No	
+row_73	DRG2	developmentally regulated GTP binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3030]	11647	-0.2347404509782791	-0.54914016	No	
+row_74	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	11669	-0.2359674572944641	-0.54570746	No	
+row_75	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	11846	-0.2474534809589386	-0.5524059	No	
+row_76	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	11906	-0.2515193521976471	-0.5511959	No	
+row_77	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	11916	-0.25212010741233826	-0.54662955	No	
+row_78	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	11992	-0.25776374340057373	-0.5463617	No	
+row_79	HNRNPD	heterogeneous nuclear ribonucleoprotein D [Source:HGNC Symbol;Acc:HGNC:5036]	12291	-0.2791135311126709	-0.5605705	Yes	
+row_80	RPL26	ribosomal protein L26 [Source:HGNC Symbol;Acc:HGNC:10327]	12311	-0.28095340728759766	-0.5560819	Yes	
+row_81	RPS4X	ribosomal protein S4 X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	12385	-0.28599005937576294	-0.55510163	Yes	
+row_82	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	12405	-0.28776252269744873	-0.55047345	Yes	
+row_83	RPS21	ribosomal protein S21 [Source:HGNC Symbol;Acc:HGNC:10409]	12444	-0.2906268537044525	-0.5470573	Yes	
+row_84	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	12458	-0.29197216033935547	-0.5419415	Yes	
+row_85	RPS25	ribosomal protein S25 [Source:HGNC Symbol;Acc:HGNC:10413]	12533	-0.29731330275535583	-0.54079604	Yes	
+row_86	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	12685	-0.3096872866153717	-0.54454666	Yes	
+row_87	GTPBP1	GTP binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4669]	12756	-0.3143983781337738	-0.5427834	Yes	
+row_88	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	12764	-0.31558868288993835	-0.5367822	Yes	
+row_89	ZNF385A	zinc finger protein 385A [Source:HGNC Symbol;Acc:HGNC:17521]	12793	-0.3186008334159851	-0.5321238	Yes	
+row_90	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	12837	-0.3228197693824768	-0.5283821	Yes	
+row_91	EIF3H	eukaryotic translation initiation factor 3 subunit H [Source:HGNC Symbol;Acc:HGNC:3273]	12842	-0.32301971316337585	-0.522028	Yes	
+row_92	RPL32	ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:10336]	12846	-0.3232274651527405	-0.51560277	Yes	
+row_93	CPEB4	cytoplasmic polyadenylation element binding protein 4 [Source:HGNC Symbol;Acc:HGNC:21747]	12860	-0.3244774341583252	-0.50982064	Yes	
+row_94	RPS7	ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:10440]	12947	-0.3325869143009186	-0.5087546	Yes	
+row_95	RPL35A	ribosomal protein L35a [Source:HGNC Symbol;Acc:HGNC:10345]	13091	-0.34426501393318176	-0.5112614	Yes	
+row_96	UNK	unk zinc finger [Source:HGNC Symbol;Acc:HGNC:29369]	13092	-0.34434497356414795	-0.5042026	Yes	
+row_97	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	13137	-0.3476666808128357	-0.5000185	Yes	
+row_98	YTHDF2	YTH N6-methyladenosine RNA binding protein F2 [Source:HGNC Symbol;Acc:HGNC:31675]	13145	-0.34805047512054443	-0.49335188	Yes	
+row_99	EIF2S3B	eukaryotic translation initiation factor 2 subunit gamma B [Source:HGNC Symbol;Acc:HGNC:43863]	13196	-0.35257935523986816	-0.4894683	Yes	
+row_100	RPL27	ribosomal protein L27 [Source:HGNC Symbol;Acc:HGNC:10328]	13238	-0.35661637783050537	-0.48490006	Yes	
+row_101	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	13254	-0.3579834997653961	-0.4785649	Yes	
+row_102	PABPC1	poly(A) binding protein cytoplasmic 1 [Source:HGNC Symbol;Acc:HGNC:8554]	13255	-0.35805243253707886	-0.47122508	Yes	
+row_103	RPL12	ribosomal protein L12 [Source:HGNC Symbol;Acc:HGNC:10302]	13392	-0.3718780279159546	-0.47269765	Yes	
+row_104	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	13409	-0.3740178048610687	-0.4661007	Yes	
+row_105	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	13420	-0.37505805492401123	-0.45908108	Yes	
+row_106	PKP1	plakophilin 1 [Source:HGNC Symbol;Acc:HGNC:9023]	13498	-0.3829324245452881	-0.45638108	Yes	
+row_107	RPS24	ribosomal protein S24 [Source:HGNC Symbol;Acc:HGNC:10411]	13535	-0.38644471764564514	-0.450867	Yes	
+row_108	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	13579	-0.39201104640960693	-0.44570693	Yes	
+row_109	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	13601	-0.394184947013855	-0.43903095	Yes	
+row_110	RPLP1	ribosomal protein lateral stalk subunit P1 [Source:HGNC Symbol;Acc:HGNC:10372]	13633	-0.3967863619327545	-0.43297043	Yes	
+row_111	RPL11	ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:10301]	13744	-0.408039391040802	-0.43196282	Yes	
+row_112	RPS15A	ribosomal protein S15a [Source:HGNC Symbol;Acc:HGNC:10389]	13759	-0.4097537100315094	-0.42449954	Yes	
+row_113	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	13859	-0.4203847348690033	-0.42250317	Yes	
+row_114	METTL3	methyltransferase 3, N6-adenosine-methyltransferase complex catalytic subunit [Source:HGNC Symbol;Acc:HGNC:17563]	13869	-0.4212419092655182	-0.41446996	Yes	
+row_115	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	13876	-0.4221542477607727	-0.40621743	Yes	
+row_116	EIF3E	eukaryotic translation initiation factor 3 subunit E [Source:HGNC Symbol;Acc:HGNC:3277]	13897	-0.424649178981781	-0.39885005	Yes	
+row_117	EIF4B	eukaryotic translation initiation factor 4B [Source:HGNC Symbol;Acc:HGNC:3285]	13933	-0.4288817346096039	-0.39239913	Yes	
+row_118	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	13937	-0.429695188999176	-0.38379136	Yes	
+row_119	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	13972	-0.43332040309906006	-0.37718257	Yes	
+row_120	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	13992	-0.43584632873535156	-0.36951882	Yes	
+row_121	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	13999	-0.4366239905357361	-0.36096963	Yes	
+row_122	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	14020	-0.43856194615364075	-0.35331708	Yes	
+row_123	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	14038	-0.4412190318107605	-0.34540942	Yes	
+row_124	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	14051	-0.44333383440971375	-0.337124	Yes	
+row_125	EIF2B4	eukaryotic translation initiation factor 2B subunit delta [Source:HGNC Symbol;Acc:HGNC:3260]	14054	-0.44371503591537476	-0.32816193	Yes	
+row_126	RPS6	ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:10429]	14055	-0.4437926411628723	-0.31906453	Yes	
+row_127	EIF3G	eukaryotic translation initiation factor 3 subunit G [Source:HGNC Symbol;Acc:HGNC:3274]	14136	-0.4565906524658203	-0.31505525	Yes	
+row_128	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	14173	-0.46435701847076416	-0.307944	Yes	
+row_129	RPS15	ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:10388]	14183	-0.4658553898334503	-0.29899624	Yes	
+row_130	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]	14243	-0.474649578332901	-0.29321226	Yes	
+row_131	RPL19	ribosomal protein L19 [Source:HGNC Symbol;Acc:HGNC:10312]	14247	-0.47498878836631775	-0.283676	Yes	
+row_132	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	14256	-0.4767565131187439	-0.27443793	Yes	
+row_133	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	14307	-0.4848293960094452	-0.26784334	Yes	
+row_134	RPL10	ribosomal protein L10 [Source:HGNC Symbol;Acc:HGNC:10298]	14314	-0.48592010140419006	-0.25828364	Yes	
+row_135	EIF3L	eukaryotic translation initiation factor 3 subunit L [Source:HGNC Symbol;Acc:HGNC:18138]	14395	-0.4974837005138397	-0.25343606	Yes	
+row_136	EIF2B5	eukaryotic translation initiation factor 2B subunit epsilon [Source:HGNC Symbol;Acc:HGNC:3261]	14488	-0.5161833763122559	-0.24900775	Yes	
+row_137	RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	14500	-0.5181928873062134	-0.23912089	Yes	
+row_138	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	14506	-0.5198149085044861	-0.22879949	Yes	
+row_139	EIF3F	eukaryotic translation initiation factor 3 subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	14527	-0.5243018269538879	-0.21938933	Yes	
+row_140	RPL29	ribosomal protein L29 [Source:HGNC Symbol;Acc:HGNC:10331]	14552	-0.5324575901031494	-0.2100795	Yes	
+row_141	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	14560	-0.5345067381858826	-0.1995907	Yes	
+row_142	YBX1	Y-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8014]	14622	-0.5490829944610596	-0.19241466	Yes	
+row_143	RPLP0	ribosomal protein lateral stalk subunit P0 [Source:HGNC Symbol;Acc:HGNC:10371]	14629	-0.5522361397743225	-0.18149553	Yes	
+row_144	RPL30	ribosomal protein L30 [Source:HGNC Symbol;Acc:HGNC:10333]	14646	-0.5573214292526245	-0.17114097	Yes	
+row_145	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	14683	-0.569743275642395	-0.16186939	Yes	
+row_146	RPS5	ribosomal protein S5 [Source:HGNC Symbol;Acc:HGNC:10426]	14783	-0.6010364890098572	-0.1561698	Yes	
+row_147	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	14797	-0.6112908124923706	-0.14450827	Yes	
+row_148	RPL18	ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:10310]	14849	-0.6332679390907288	-0.13493769	Yes	
+row_149	RPL22	ribosomal protein L22 [Source:HGNC Symbol;Acc:HGNC:10315]	14891	-0.6493654251098633	-0.12436832	Yes	
+row_150	EEF1D	eukaryotic translation elongation factor 1 delta [Source:HGNC Symbol;Acc:HGNC:3211]	14904	-0.6580374240875244	-0.11168163	Yes	
+row_151	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:HGNC:10360]	14964	-0.7044463753700256	-0.101187	Yes	
+row_152	RPS11	ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:10384]	14975	-0.7139975428581238	-0.08721942	Yes	
+row_153	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	15030	-0.7758119106292725	-0.07492744	Yes	
+row_154	RPL28	ribosomal protein L28 [Source:HGNC Symbol;Acc:HGNC:10330]	15074	-0.8566431403160095	-0.0602428	Yes	
+row_155	EEF2	eukaryotic translation elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:3214]	15093	-0.9358280897140503	-0.04226291	Yes	
+row_156	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	15104	-1.0412801504135132	-0.021586293	Yes	
+row_157	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	15105	-1.066095232963562	2.6781962E-4	Yes	

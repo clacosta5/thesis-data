@@ -1,0 +1,3 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.108455037895975,6,164,3.75817620112922,"P00034 Integrin signalling pathway","https://www.pantherdb.org/pathway/pathDetail.do?clsAccession=P00034"," COL8A2  DMBT1  ITGA8  LIMS1  MAP3K5  PTK2B"
+0.108455037895975,6,171,3.91586191586192,"P06959 CCKR signaling map","https://www.pantherdb.org/pathway/pathDetail.do?clsAccession=P06959"," EGR1  MMP9  PTK2B  TACR1  PRKCQ  MMP7"

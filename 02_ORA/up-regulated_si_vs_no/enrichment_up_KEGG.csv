@@ -1,0 +1,7 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0153437939555137,8,159,5.69942243224686,"Path:hsa04514 Cell adhesion molecules","https://www.genome.jp/kegg-bin/show_pathway?hsa04514"," CLDN3  CLDN23  CD274  HLA-B  HLA-C  HLA-F  ITGA8  CLDN12"
+0.0624503831096771,6,115,5.65624498957832,"Path:hsa04670 Leukocyte transendothelial migration","https://www.genome.jp/kegg-bin/show_pathway?hsa04670"," CLDN3  CLDN23  PTK2B  MMP9  CXCR4  CLDN12"
+0.148169687231045,3,38,10.3697824808936,"Path:hsa05330 Allograft rejection","https://www.genome.jp/kegg-bin/show_pathway?hsa05330"," HLA-B  HLA-C  HLA-F"
+0.148169687231045,3,44,9.99943310657596,"Path:hsa05332 Graft-versus-host disease","https://www.genome.jp/kegg-bin/show_pathway?hsa05332"," HLA-B  HLA-C  HLA-F"
+0.158863210475199,3,43,9.03174603174603,"Path:hsa04940 Type I diabetes mellitus","https://www.genome.jp/kegg-bin/show_pathway?hsa04940"," HLA-B  HLA-C  HLA-F"
+0.186720553595122,6,181,3.65992322855068,"Path:hsa05168 Herpes simplex virus 1 infection","https://www.genome.jp/kegg-bin/show_pathway?hsa05168"," HLA-B  HLA-C  HLA-F  PPP1CB  BST2  SOCS3"

@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	3558	0.2603151798248291	-0.20943402	No	
+row_1	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	5941	0.09556673467159271	-0.35764593	No	
+row_2	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	6181	0.08247461915016174	-0.36510816	No	
+row_3	LIF	LIF interleukin 6 family cytokine [Source:HGNC Symbol;Acc:HGNC:6596]	9254	-0.08998307585716248	-0.5596345	No	
+row_4	GLI2	GLI family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:4318]	9445	-0.1000867709517479	-0.5620578	No	
+row_5	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	9561	-0.10596145689487457	-0.55891144	No	
+row_6	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	12186	-0.27232062816619873	-0.7052011	Yes	
+row_7	ASCL1	achaete-scute family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:738]	12359	-0.28374791145324707	-0.6877621	Yes	
+row_8	CNTF	ciliary neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:2169]	12460	-0.2921296954154968	-0.66469747	Yes	
+row_9	MYT1	myelin transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:7622]	12614	-0.304062157869339	-0.64393383	Yes	
+row_10	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	12649	-0.3071354627609253	-0.6149681	Yes	
+row_11	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	12781	-0.31758415699005127	-0.59137136	Yes	
+row_12	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	12816	-0.3206912875175476	-0.5610277	Yes	
+row_13	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	13526	-0.38577917218208313	-0.56882036	Yes	
+row_14	OMG	oligodendrocyte myelin glycoprotein [Source:HGNC Symbol;Acc:HGNC:8135]	13710	-0.4048086404800415	-0.53980494	Yes	
+row_15	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	13734	-0.4068025052547455	-0.49997893	Yes	
+row_16	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	13776	-0.4112347662448883	-0.46089578	Yes	
+row_17	SOX5	SRY-box transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:11201]	13967	-0.43279871344566345	-0.42949933	Yes	
+row_18	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	14147	-0.4584920406341553	-0.3947619	Yes	
+row_19	NKX2-2	NK2 homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7835]	14156	-0.46045008301734924	-0.34848815	Yes	
+row_20	OLIG2	oligodendrocyte transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:9398]	14284	-0.48129576444625854	-0.30798516	Yes	
+row_21	MOG	myelin oligodendrocyte glycoprotein [Source:HGNC Symbol;Acc:HGNC:7197]	14356	-0.49185439944267273	-0.26269612	Yes	
+row_22	OLIG1	oligodendrocyte transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:16983]	14475	-0.5137934684753418	-0.21829307	Yes	
+row_23	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	14697	-0.5750685930252075	-0.17449038	Yes	
+row_24	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	14756	-0.5929630398750305	-0.11806188	Yes	
+row_25	SOX10	SRY-box transcription factor 10 [Source:HGNC Symbol;Acc:HGNC:11190]	14878	-0.6429909467697144	-0.06072499	Yes	
+row_26	SOX6	SRY-box transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:16421]	15007	-0.7474175095558167	0.0067626177	Yes	

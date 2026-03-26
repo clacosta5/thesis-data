@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NES	nestin [Source:HGNC Symbol;Acc:HGNC:7756]	7468	0.011478970758616924	-0.493381	No	
+row_1	MAGED4B	MAGE family member D4B [Source:HGNC Symbol;Acc:HGNC:22880]	7844	-0.009541265666484833	-0.5169716	No	
+row_2	ADGRB2	adhesion G protein-coupled receptor B2 [Source:HGNC Symbol;Acc:HGNC:944]	9040	-0.07780247181653976	-0.58588606	No	
+row_3	CELSR2	cadherin EGF LAG seven-pass G-type receptor 2 [Source:HGNC Symbol;Acc:HGNC:3231]	9220	-0.08812282979488373	-0.58610797	No	
+row_4	HES6	hes family bHLH transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:18254]	10774	-0.1788112372159958	-0.6654043	No	
+row_5	PTPRZ1	protein tyrosine phosphatase receptor type Z1 [Source:HGNC Symbol;Acc:HGNC:9685]	11850	-0.24800464510917664	-0.7038843	No	
+row_6	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	12946	-0.3325831890106201	-0.73251754	Yes	
+row_7	ADGRL3	adhesion G protein-coupled receptor L3 [Source:HGNC Symbol;Acc:HGNC:20974]	13012	-0.33801180124282837	-0.6921765	Yes	
+row_8	HES5	hes family bHLH transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:19764]	13265	-0.35932081937789917	-0.66141313	Yes	
+row_9	DLL3	delta like canonical Notch ligand 3 [Source:HGNC Symbol;Acc:HGNC:2909]	13295	-0.3622748553752899	-0.61548156	Yes	
+row_10	CSPG5	chondroitin sulfate proteoglycan 5 [Source:HGNC Symbol;Acc:HGNC:2467]	14039	-0.44124123454093933	-0.6064353	Yes	
+row_11	OLIG2	oligodendrocyte transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:9398]	14284	-0.48129576444625854	-0.5590299	Yes	
+row_12	METRN	meteorin, glial cell differentiation regulator [Source:HGNC Symbol;Acc:HGNC:14151]	14333	-0.4881020188331604	-0.49773672	Yes	
+row_13	CRMP1	collapsin response mediator protein 1 [Source:HGNC Symbol;Acc:HGNC:2365]	14370	-0.49385175108909607	-0.43488884	Yes	
+row_14	ADGRG1	adhesion G protein-coupled receptor G1 [Source:HGNC Symbol;Acc:HGNC:4512]	14433	-0.5047682523727417	-0.37232196	Yes	
+row_15	MAP2	microtubule associated protein 2 [Source:HGNC Symbol;Acc:HGNC:6839]	14453	-0.5100774765014648	-0.30620423	Yes	
+row_16	OLIG1	oligodendrocyte transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:16983]	14475	-0.5137934684753418	-0.23972817	Yes	
+row_17	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	14543	-0.5288687944412231	-0.17430916	Yes	
+row_18	GRIA2	glutamate ionotropic receptor AMPA type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4572]	14862	-0.636354923248291	-0.111325696	Yes	
+row_19	SHC3	SHC adaptor protein 3 [Source:HGNC Symbol;Acc:HGNC:18181]	15099	-0.9662095308303833	6.627908E-4	Yes	

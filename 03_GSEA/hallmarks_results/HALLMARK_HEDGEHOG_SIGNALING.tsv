@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	1082	0.48857828974723816	-0.018022971	No	
+row_1	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1 [Source:HGNC Symbol;Acc:HGNC:1850]	1497	0.4309876561164856	0.001925178	No	
+row_2	HEY1	hes related family bHLH transcription factor with YRPW motif 1 [Source:HGNC Symbol;Acc:HGNC:4880]	2394	0.3408769369125366	-0.020007772	No	
+row_3	PML	PML nuclear body scaffold [Source:HGNC Symbol;Acc:HGNC:9113]	2945	0.29792603850364685	-0.023716316	No	
+row_4	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	3064	0.2891027331352234	2.575204E-4	No	
+row_5	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	3137	0.28509950637817383	0.02684202	No	
+row_6	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	4009	0.22510091960430145	-0.006167747	No	
+row_7	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	4620	0.18360535800457	-0.026430752	No	
+row_8	NKX6-1	NK6 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7839]	4632	0.18288032710552216	-0.0070441207	No	
+row_9	CDK6	cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	4829	0.16983352601528168	-0.0013629375	No	
+row_10	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	5275	0.1397811621427536	-0.015502634	No	
+row_11	AMOT	angiomotin [Source:HGNC Symbol;Acc:HGNC:17810]	5362	0.13495226204395294	-0.0063623926	No	
+row_12	RASA1	RAS p21 protein activator 1 [Source:HGNC Symbol;Acc:HGNC:9871]	5410	0.1319449245929718	0.005033774	No	
+row_13	RTN1	reticulon 1 [Source:HGNC Symbol;Acc:HGNC:10467]	5965	0.09445114433765411	-0.021321628	No	
+row_14	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	6426	0.06927356868982315	-0.044211816	No	
+row_15	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	7568	0.00546301668509841	-0.119289085	No	
+row_16	OPHN1	oligophrenin 1 [Source:HGNC Symbol;Acc:HGNC:8148]	8150	-0.02781662903726101	-0.15476486	No	
+row_17	VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	10256	-0.14648903906345367	-0.2782682	No	
+row_18	HEY2	hes related family bHLH transcription factor with YRPW motif 2 [Source:HGNC Symbol;Acc:HGNC:4881]	10933	-0.1891896277666092	-0.30229446	No	
+row_19	ETS2	ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]	11013	-0.19356799125671387	-0.28624243	No	
+row_20	TLE3	TLE family member 3, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11839]	11919	-0.2523418664932251	-0.31851086	No	
+row_21	ACHE	acetylcholinesterase (Yt blood group) [Source:HGNC Symbol;Acc:HGNC:108]	12652	-0.3076522946357727	-0.3332209	Yes	
+row_22	CDK5R1	cyclin dependent kinase 5 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:1775]	12770	-0.3162662088871002	-0.30619285	Yes	
+row_23	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	12781	-0.31758415699005127	-0.27192295	Yes	
+row_24	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	12927	-0.3308648467063904	-0.24514621	Yes	
+row_25	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	13135	-0.34755754470825195	-0.22064558	Yes	
+row_26	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	13147	-0.34815487265586853	-0.1830793	Yes	
+row_27	TLE1	TLE family member 1, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11837]	13826	-0.41769737005233765	-0.18210314	Yes	
+row_28	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	13860	-0.4204919636249542	-0.13803922	Yes	
+row_29	SLIT1	slit guidance ligand 1 [Source:HGNC Symbol;Acc:HGNC:11085]	14223	-0.47208184003829956	-0.110121876	Yes	
+row_30	CRMP1	collapsin response mediator protein 1 [Source:HGNC Symbol;Acc:HGNC:2365]	14370	-0.49385175108909607	-0.06548347	Yes	
+row_31	ADGRG1	adhesion G protein-coupled receptor G1 [Source:HGNC Symbol;Acc:HGNC:4512]	14433	-0.5047682523727417	-0.014072888	Yes	
+row_32	LDB1	LIM domain binding 1 [Source:HGNC Symbol;Acc:HGNC:6532]	14562	-0.534954309463501	0.03628053	Yes	

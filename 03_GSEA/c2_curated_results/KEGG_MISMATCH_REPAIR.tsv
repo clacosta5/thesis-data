@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	135	0.7926698327064514	0.094749875	Yes	
+row_1	MSH3	mutS homolog 3 [Source:HGNC Symbol;Acc:HGNC:7326]	188	0.7544806599617004	0.19000456	Yes	
+row_2	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	579	0.5908175110816956	0.24144846	Yes	
+row_3	SSBP1	single stranded DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11317]	631	0.5764607191085815	0.3134809	Yes	
+row_4	RFC1	replication factor C subunit 1 [Source:HGNC Symbol;Acc:HGNC:9969]	1050	0.4936598241329193	0.35035902	Yes	
+row_5	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	1633	0.41224297881126404	0.36571735	Yes	
+row_6	RPA4	replication protein A4 [Source:HGNC Symbol;Acc:HGNC:30305]	1931	0.3828617334365845	0.39611998	Yes	
+row_7	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	2007	0.3770761787891388	0.44047844	Yes	
+row_8	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	2132	0.36548277735710144	0.4800729	Yes	
+row_9	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	2165	0.36190158128738403	0.525296	Yes	
+row_10	MLH3	mutL homolog 3 [Source:HGNC Symbol;Acc:HGNC:7128]	2287	0.34974363446235657	0.56303024	Yes	
+row_11	MSH6	mutS homolog 6 [Source:HGNC Symbol;Acc:HGNC:7329]	2377	0.3422397971153259	0.60190356	Yes	
+row_12	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	2572	0.32790446281433105	0.63194287	Yes	
+row_13	PMS2	PMS1 homolog 2, mismatch repair system component [Source:HGNC Symbol;Acc:HGNC:9122]	2793	0.3105250298976898	0.6579855	Yes	
+row_14	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	2798	0.31020164489746094	0.6983009	Yes	
+row_15	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	6031	0.09104267507791519	0.49601528	No	
+row_16	EXO1	exonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3511]	7235	0.023803168907761574	0.41940224	No	
+row_17	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	9263	-0.09020694345235825	0.2968668	No	
+row_18	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	10692	-0.17240990698337555	0.22478293	No	
+row_19	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	11208	-0.20646162331104279	0.21766135	No	
+row_20	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	12713	-0.3119184970855713	0.15879115	No	
